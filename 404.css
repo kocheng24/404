@@ -1,0 +1,14 @@
+body{
+	color:#e0e0e0;
+	background-color:#1A1A1A;
+}
+
+.countainer {
+	/* background-color:#1A1A1A; */
+	display: flex;
+	text-align:center;
+	justify-content: center; 
+	align-items: center;     
+	/* height: 100vh; */
+	margin-top:80px;
+}
